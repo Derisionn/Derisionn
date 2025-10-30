@@ -1,5 +1,10 @@
-## Hi, I’m Harsh Vardhan! 👋
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
+  <img src="https://github.com/Derisionn/Derisionn/blob/main/tumblr_owi25v6uAo1r4gsiio1_1280_gif%20(1000%C3%97300).gif" alt="Pixel art developer workspace" width="800" style="border-radius: 10px;"/>
+</div>
+
+
+# Hi, I’m Harsh Vardhan! 👋
+<p align="left">Computer Science student specializing in Data Science. I love exploring Machine Learning, Neural Networks, and real-world analytics projects that make data come alive.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
