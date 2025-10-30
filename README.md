@@ -1,4 +1,4 @@
-## Hi, I’m Derisionn! Here’s a bit about me 👋
+## Hi, I’m Harsh Vardhan! 👋
 <!--
 **Derisionn/Derisionn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
