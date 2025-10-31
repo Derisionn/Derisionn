@@ -45,9 +45,14 @@
 
 #
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Derisionn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="180" width="400" alt="Harsh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Derisionn&layout=compact&theme=dracula&hide_border=false" height="166" width="400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Derisionn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="250" width="330" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Derisionn&layout=compact&theme=dracula&hide_border=false" height="170" width="300" alt="Top Languages" />
+  <a href="https://leetcode.com/u/_vardh4n/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/_vardh4n?theme=dark" alt="LeetCode Stats" height="180" width="350"/>
+  </a>
 </div>
 
 #
+
+
 
