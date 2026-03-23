@@ -4,7 +4,7 @@
 
 
 # Hi, I’m Harsh Vardhan! 👋
-<p align="left">Computer Science student specializing in Data Science. I love exploring Machine Learning, Neural Networks, and real-world analytics projects that make data come alive.</p>
+<p align="left">Computer Science student specializing in Data Science. Focused on solving real-world problems using Machine Learning, Deep Learning, and production-ready systems.</p>
 
 <p>
   <a href="mailto:harshvardhan8630466531@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
