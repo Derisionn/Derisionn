@@ -72,20 +72,7 @@
   </a>
 </div>
 
----
 
-### 📈 `> system_diagnostics`
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Derisionn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" alt="Harsh's GitHub stats" width="100%" />
-</td>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Derisionn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E" alt="Top Languages" width="100%" />
-</td>
-</tr>
-</table>
 
 
 
