@@ -58,17 +58,17 @@
 
 <div align="center">
   <a href="https://github.com/Derisionn/WhatsApp-Chat-Analyzer">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Derisionn&repo=WhatsApp-Chat-Analyzer&theme=tokyonight&border_radius=10" alt="WhatsApp Chat Analyzer" width="48%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Derisionn&repo=WhatsApp-Chat-Analyzer&theme=tokyonight&border_radius=10&v=2" alt="WhatsApp Chat Analyzer" width="48%" />
   </a>
   <a href="https://github.com/Derisionn/stock_price_prediction">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Derisionn&repo=stock_price_prediction&theme=tokyonight&border_radius=10" alt="Stock Price Prediction" width="48%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Derisionn&repo=stock_price_prediction&theme=tokyonight&border_radius=10&v=2" alt="Stock Price Prediction" width="48%" />
   </a>
   <br/>
   <a href="https://github.com/Derisionn/FinAlogica-main">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Derisionn&repo=FinAlogica-main&theme=tokyonight&border_radius=10" alt="FinAlogica" width="48%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Derisionn&repo=FinAlogica-main&theme=tokyonight&border_radius=10&v=2" alt="FinAlogica" width="48%" />
   </a>
   <a href="https://github.com/Derisionn/multiCoder">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Derisionn&repo=multiCoder&theme=tokyonight&border_radius=10" alt="MultiCoder" width="48%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Derisionn&repo=multiCoder&theme=tokyonight&border_radius=10&v=3" alt="MultiCoder" width="48%" />
   </a>
 </div>
 
